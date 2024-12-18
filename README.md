@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimanji Liyanage</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveeshanimanji&label=Profile%20views&color=0e75b6&style=flat" alt="KaveeshaNimanji" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveeshanimanji&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshanimanji" /> 
 <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p>
 
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ashangunathilaka92@gmail.com**
 
-- ⚡ Fun fact **Call me as Ash**
+- ⚡ Fun fact **Call me as Kavee**
 
 </td>
 <td>
@@ -66,14 +66,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashangunathilaka&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kaveeshanimanji&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashangunathilaka&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveeshanimanji&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashangunathilaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaveeshanimanji&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
