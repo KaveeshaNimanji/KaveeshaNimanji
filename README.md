@@ -14,7 +14,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate **at SLIIT**
 
-- 📫 How to reach me **ashangunathilaka92@gmail.com**
+- 📫 How to reach me **nimanjiliyanage@gmail.com**
 
 - ⚡ Fun fact **Call me as Kavee**
 
@@ -83,5 +83,5 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashan-gunathilaka-17053a31b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nimanji-liyanage-30993a248//" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
