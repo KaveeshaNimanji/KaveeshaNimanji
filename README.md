@@ -1,83 +1,87 @@
-<!-- START OF README -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Open Source Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Ashan Gunathilaka</h1>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashangunathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="ashangunathilaka" /> 
+<img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFC107&center=true&width=450&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+technologies;Let's+build+something+amazing+🌟" alt="Typing SVG" />
+
+
+<table align="center">
+<tr>
+<td align="left">
+
+- 🌱 I’m currently learning **Java**
+
+- 🧑‍🎓 I’m an Undergraduate **at SLIIT**
+
+- 📫 How to reach me **ashangunathilaka92@gmail.com**
+
+- ⚡ Fun fact **Call me as Ash**
+
+</td>
+<td>
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</td>
+</tr>
+</table> 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="c" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/raw/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> 
 </p>
 
----
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/coding.gif" alt="Coding Animation" width="500"/>
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-## 🔥 About Me  
-- 👨‍💻 I’m a **Full Stack Developer** skilled in building scalable web and mobile applications.  
-- 🌱 Currently learning **[your latest tech or skill]**.  
-- 🤝 Open to collaborating on exciting projects and contributing to open-source.  
-- ⚡ Fun fact: I write code that sometimes works on the first try! 🎉
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashangunathilaka&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashangunathilaka&theme=dark&hide_border=false" /> 
+</td>
 
----
+<td width="50%" align="center">
 
-## 🛠️ Technologies & Tools  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashangunathilaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
 
----
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashan-gunathilaka-17053a31b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🌟 Featured Projects  
-
-### [🌐 Project 1: Amazing Project](https://github.com/yourusername/project1)  
-**Description:** Build something amazing that solves real-world problems.  
-**Technologies:** React, Node.js, MongoDB, TailwindCSS  
-[🚀 View Live](https://yourprojectdemo.com)
-
-### [📱 Project 2: Innovative App](https://github.com/yourusername/project2)  
-**Description:** A mobile-first application for productivity and task management.  
-**Technologies:** TypeScript, Firebase, React Native  
-[🚀 View Live](https://yourappdemo.com)
-
----
-
-## 💬 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:yourname@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎯 Fun Fact  
-Coding is my superpower 🦸‍♂️.  
-My keyboard is my wand, and bugs are my mortal enemies!
-
-<!-- END OF README -->
